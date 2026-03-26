@@ -29,18 +29,19 @@ Outside of analytics, I’m constantly learning and experimenting. I enjoy creat
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Built a Library management Database using SQL.  
+- **Project B:** Built a student academic course registration database using SQL.
+- **Project C:** Built a sales and inventory mobile app using Glide (A NO-Code Application).
+- **Content Creation:** [e.g., Developing new tutorials on data visualisation for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- AI Automation Using N8N.
+- Python for data exploration.
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<!-- This section uses Shields.io badges. You can customise them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
