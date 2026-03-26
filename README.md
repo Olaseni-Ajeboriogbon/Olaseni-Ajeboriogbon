@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Olaseni Ajeboriogbon👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,12 +14,16 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst and creative technologist who loves turning information into something people can actually use. Whether it’s a messy dataset, a workflow that needs automating, or a story that deserves to be told visually, I enjoy bringing clarity, structure, and purpose to whatever I’m building.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
-
+My work sits at the intersection of data, automation, and storytelling. I specialise in:
+- Designing clean, intuitive Power BI dashboards that help teams make decisions faster
+- Using Python, SQL, and Power Query to transform raw data into reliable insights
+- Automating repetitive processes so people can focus on meaningful work
+- Building practical tools—like Ledgr, my trader‑focused ledger app—to solve real problems
+- Creating AI-powered customer support agents and animated story content for social platforms
+- 
+Outside of analytics, I’m constantly learning and experimenting. I enjoy creating cinematic, AI-driven stories for TikTok and Instagram, refining my CapCut editing skills, and exploring new ways to blend creativity with technology. Sharing knowledge and inspiring others is a big part of who I am, and I love that “aha!” moment—whether it comes from a dataset, a workflow, or a story that finally clicks.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
